@@ -1,5 +1,5 @@
 # QR-Code-Generator
-QR-Code-Generator using Python
+QR Code Generator using Python
 
 Run following commands in cmd/terminal to install required libraries 
 
